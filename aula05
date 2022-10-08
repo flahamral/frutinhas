@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frutinhas</title>
+</head>
+<body>
+    <h1>Frutinhas</h1>
+    <hr>
+    <img src="https://img.freepik.com/vetores-gratis/coleta-de-frutas-planas-organicas_23-2148950159.jpg" alt="frutinhas em 
+    Ingles" usemap="#frutas">
+    <map name="frutas">
+        <area target="" alt="laranja" title="laranja"
+            href="https://translate.google.com/?sl=auto&amp;tl=en&amp;text=laranja&amp;op=translate" coords="143,79,114"
+            shape="circle">
+        <area target="" alt="banana" title="banana"
+            href="https://translate.google.com/?sl=auto&amp;tl=en&amp;text=banana&amp;op=translate"
+            coords="328,104,364,94,412,150,413,233,307,257,217,196,273,157" shape="poly">
+        <area target="" alt="uva" title="uva"
+            href="https://translate.google.com/?sl=auto&amp;tl=en&amp;text=uva&amp;op=translate"
+            coords="521,30,436,61,512,190,570,151,597,73,574,76,554,78" shape="poly">
+        <area target="" alt="maças" title="maças"
+            href="https://translate.google.com/?sl=pt&amp;tl=en&amp;text=ma%C3%A7%C3%A3s&amp;op=translate"
+            coords="122,286,85" shape="circle">
+        <area target="" alt="morangos" title="morangos"
+            href="https://translate.google.com/?sl=pt&amp;tl=en&amp;text=morango&amp;op=translate" coords="319,389,96"
+            shape="circle">
+        <area target="" alt="abacaxi" title="abacaxi"
+            href="https://translate.google.com/?sl=pt&amp;tl=en&amp;text=abacaxi&amp;op=translate"
+            coords="452,190,548,195,621,426,449,415" shape="poly">
+        <area target="" alt="melancia" title="melancia"
+            href="https://translate.google.com/?sl=pt&amp;tl=en&amp;text=melancia&amp;op=translate" coords="145,535,120"
+            shape="circle">
+        <area target="" alt="limão" title="limão"
+            href="https://translate.google.com/?sl=pt&amp;tl=en&amp;text=limao%20sicilano&amp;op=translate"
+            coords="466,527,93" shape="circle">
+    </map>
+</body>
+</html>
