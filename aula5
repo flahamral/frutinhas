@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pontos turisticos em minas gerais</title>
+</head>
+
+<body>
+    <h1>Pontos turisticos em Minas Gerais</h1>
+    <hr>
+    <img src="img/Aiuruoca.png" alt="Aiuruoca" usemap="#aiuruocaminas">
+
+    <map name="aiuruocaminas">
+        <area target="" alt="Aiuruoca" title="Aiuruoca" href="https://www.aiuruocaminas.com.br/"
+            coords="944,235,298,9,116,438,759,693,894,414,911,326" shape="poly">
+    </map>
+    <img src="img/governador valadares.png" alt="Governador" usemap="#governador">
+    <map name="governador">
+        <area target="" alt="governador" title="governador" href="https://www.valadares.mg.gov.br/"
+            coords="91,345,854,336,906,796,231,810,99,843" shape="poly">
+    </map>
+    <img src="img/ouro preto.png" alt="ouro preto" usemap="#ouro">
+    <map name="ouro">
+        <area target="" alt="ouro preto" title="ouro preto" href="https://ouropreto.org.br/"
+            coords="61,161,796,163,828,627,66,598" shape="poly">
+    </map>
+    <img src="img/inhotim.png" alt="inhotim" usemap="#inhotim">
+    <map name="inhotim">
+        <area target="" alt="inhotim" title="inhotim" href="https://www.inhotim.org.br/"
+            coords="62,80,421,71,480,375,386,385,71,410" shape="poly">
+    </map>
+</body>
+
+</html>
+
+
+
+
+
+
